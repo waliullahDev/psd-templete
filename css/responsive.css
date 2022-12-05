@@ -1,0 +1,24 @@
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+    .inner_header { margin: 20px auto; }
+    .social_area { max-width: 460px; padding-top: 15px; }
+    .inner_menu { background: none; min-height: auto; }
+    .inner_menu::after { display: none; }
+    .mean-container .mean-nav { margin-top: 0; width: 80%; }
+    .hero-area { padding: 10px 0; }
+    .inner_hero_area h1{ font-size: 40px; }
+}
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+    .mini_menu { width: 100%; margin-bottom: 10px; }
+    .mini_menu ul, .social_area ul{ text-align: center; }
+    .mini_menu ul li{ margin: 0 5px; }
+    .searce_area, .logo_area{ width: 259px;float: none;margin: 0 auto;text-align: center; }
+    .inner_hero_area img{margin-bottom: 10px;}
+    .inner_hero_area h1{ font-size: 25px;}
+    #work_area, #footer {padding: 10px 0;}
+    .child_work{width: 98%;}
+    .child_footer {width: 90%;}
+    .child_blog a { float: left;}
+    .inner_copyright{text-align: center;}
+    .left_copyright{width: 100%; margin-bottom: 5px; }
+    .right_copyright{width: 100%; text-align: center;}
+}
